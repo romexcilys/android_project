@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titre">Formulaire de connexion</string>
+    <string name="nom_uti">Nom d\'utilisateur</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="vider">Vider</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="error">Champs manquant</string>
+    <string name="logout">Log out</string>
+
+</resources>
